@@ -16,3 +16,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\cp199\O
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-01-31 09:35:57.277
 !MESSAGE Indexed 'GPIO_Control' (19 sources, 81 headers) in 2.71 sec: 4,614 declarations; 19,513 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0083%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-01-31 10:27:28.807
+!MESSAGE Indexed 'Delay_Timer' (19 sources, 81 headers) in 1.33 sec: 4,614 declarations; 19,513 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0083%)

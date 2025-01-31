@@ -1,0 +1,10 @@
+12:39:31 **** Incremental Build of configuration Debug for project Delay_Timer ****
+make -j20 all 
+arm-none-eabi-size  Delay_Timer.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8212	     12	   1644	   9868	   268c	Delay_Timer.elf
+Finished building: default.size.stdout
+ 
+
+12:39:31 Build Finished. 0 errors, 0 warnings. (took 144ms)
+

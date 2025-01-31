@@ -639,3 +639,36 @@
 2025-01-31 09:51:51,304 [INFO] ProjectBuilder:5154 - Time for Generating toolchain IDE Files: 722mS.
 2025-01-31 09:51:51,305 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
 2025-01-31 09:51:51,306 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
+2025-01-31 10:02:19,746 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 590712616 Bytes (849346560)
+2025-01-31 10:02:20,066 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2025-01-31 10:02:20,066 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2025-01-31 10:02:20,067 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2025-01-31 10:02:20,067 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2025-01-31 10:02:20,068 [INFO] CodeGenerator:896 - code generatio: config db path: C:\ST\STM32CubeIDE_1.17.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.13.0.202411220809\\db\
+2025-01-31 10:02:20,141 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\MXTmpFiles\license.tmp_save
+2025-01-31 10:02:20,269 [INFO] CodeEngine:279 - Generated code: C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\MXTmpFiles\license.tmp
+2025-01-31 10:02:20,279 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\MXTmpFiles\gpio.tmp_save
+2025-01-31 10:02:20,375 [INFO] CodeEngine:279 - Generated code: C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\MXTmpFiles\gpio.tmp
+2025-01-31 10:02:20,395 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Src\stm32f4xx_it.c_save
+2025-01-31 10:02:20,486 [INFO] CodeEngine:279 - Generated code: C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Src\stm32f4xx_it.c
+2025-01-31 10:02:20,498 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Inc\stm32f4xx_it.h_save
+2025-01-31 10:02:20,553 [INFO] CodeEngine:279 - Generated code: C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Inc\stm32f4xx_it.h
+2025-01-31 10:02:20,570 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Src\stm32f4xx_hal_msp.c_save
+2025-01-31 10:02:20,646 [INFO] CodeEngine:279 - Generated code: C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Src\stm32f4xx_hal_msp.c
+2025-01-31 10:02:20,650 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\MXTmpFiles\system.tmp_save
+2025-01-31 10:02:20,702 [INFO] CodeEngine:279 - Generated code: C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\MXTmpFiles\system.tmp
+2025-01-31 10:02:20,718 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-01-31 10:02:20,786 [INFO] CodeEngine:335 - Generated code: C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Inc\stm32f4xx_hal_conf.h
+2025-01-31 10:02:20,828 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Inc\main.h_save
+2025-01-31 10:02:20,883 [INFO] CodeEngine:279 - Generated code: C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Inc\main.h
+2025-01-31 10:02:20,897 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Src\main.c_save
+2025-01-31 10:02:20,959 [INFO] CodeEngine:279 - Generated code: C:\Users\cp199\OneDrive\Documentos\STM32Projects\STM32F_ExampleCodes_HAL\GPIO_Control\Core\Src\main.c
+2025-01-31 10:02:21,135 [INFO] ProjectBuilder:3289 - Time for Copy HAL[1] : 93mS.
+2025-01-31 10:02:21,138 [INFO] ProjectBuilder:4876 - Project Generator version: 4.5.0-RC5
+2025-01-31 10:02:21,180 [INFO] ConfigFileManager:1579 - The Die is : DIE419
+2025-01-31 10:02:21,663 [INFO] ProjectBuilder:5154 - Time for Generating toolchain IDE Files: 526mS.
+2025-01-31 10:02:21,665 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
+2025-01-31 10:02:21,666 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
+2025-01-31 10:03:04,512 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-01-31 10:03:04,512 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-01-31 10:03:04,529 [INFO] IPUIPlugin:80 - create IPUIPlugin

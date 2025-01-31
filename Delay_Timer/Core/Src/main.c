@@ -102,8 +102,8 @@ int main(void)
   {
     /* USER CODE END WHILE */
 
-	  timerDelay();	//1 second delay
-	  toggleLED();	//Toggle LED
+	  timerDelay();	//1 Second delay
+	  toggleLED();	//Toggle GPIO
 
     /* USER CODE BEGIN 3 */
   }
@@ -181,7 +181,7 @@ static void MX_TIM1_Init(void)
 
   /* USER CODE END TIM1_Init 1 */
   htim1.Instance = TIM1;
-  htim1.Init.Prescaler = 1439;
+  htim1.Init.Prescaler = 2879;
   htim1.Init.CounterMode = TIM_COUNTERMODE_UP;
   htim1.Init.Period = 62499;
   htim1.Init.ClockDivision = TIM_CLOCKDIVISION_DIV1;

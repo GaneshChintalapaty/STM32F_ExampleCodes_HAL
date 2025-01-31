@@ -383,11 +383,11 @@ int main(void)
   {
     /* USER CODE END WHILE */
 
-	  timerDelay();
+	  timerDelay();	//1 Second delay
  80004f0:	f000 f916 	bl	8000720 <timerDelay>
-	  toggleLED();
+	  toggleLED();	//Toggle GPIO
  80004f4:	f000 f908 	bl	8000708 <toggleLED>
-	  timerDelay();
+	  timerDelay();	//1 Second delay
  80004f8:	bf00      	nop
  80004fa:	e7f9      	b.n	80004f0 <main+0x14>
 
@@ -570,9 +570,9 @@ static void MX_TIM1_Init(void)
  80005f8:	4b1f      	ldr	r3, [pc, #124]	@ (8000678 <MX_TIM1_Init+0x9c>)
  80005fa:	4a20      	ldr	r2, [pc, #128]	@ (800067c <MX_TIM1_Init+0xa0>)
  80005fc:	601a      	str	r2, [r3, #0]
-  htim1.Init.Prescaler = 1439;
+  htim1.Init.Prescaler = 2879;
  80005fe:	4b1e      	ldr	r3, [pc, #120]	@ (8000678 <MX_TIM1_Init+0x9c>)
- 8000600:	f240 529f 	movw	r2, #1439	@ 0x59f
+ 8000600:	f640 323f 	movw	r2, #2879	@ 0xb3f
  8000604:	605a      	str	r2, [r3, #4]
   htim1.Init.CounterMode = TIM_COUNTERMODE_UP;
  8000606:	4b1c      	ldr	r3, [pc, #112]	@ (8000678 <MX_TIM1_Init+0x9c>)
